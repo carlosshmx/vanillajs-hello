@@ -1,1 +1,4 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.main-container {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
